@@ -34,7 +34,7 @@
 
 - **Shadcn** is a highly customizable and extensible library, making it a great choice for building component libraries or design systems. You can easily modify the source code of Shadcn UI components to match your project's needs and design guidelines.
 
-- **TailwindCSS** is a utility-first CSS framework that provides a set of pre-designed utility classes for styling web interfaces. It allows developers to quickly build custom designs without writing traditional CSS by composing utility classes directly in HTML elements.
+- **TailwindCSS** is an utility-first CSS framework that provides a set of pre-designed utility classes for styling web interfaces. It allows developers to quickly build custom designs without writing traditional CSS by composing utility classes directly in HTML elements.
 
 ## <br/> <a name="features">📝 Features</a>
 
