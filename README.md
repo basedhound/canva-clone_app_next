@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="imaginify-fv.vercel.app" target="_blank">
+    <a href="https://imaginify-fv.vercel.app" target="_blank">
       <img src="public/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Imaginify - Canva clone</h3>
