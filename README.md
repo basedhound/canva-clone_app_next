@@ -20,21 +20,21 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **Next.js:** A React framework that enables server-side rendering, static site generation, and client-side rendering with built-in routing and webpack configuration. It optimizes performance and SEO while providing a great developer experience.
+- **Next.js** is a React framework that enables server-side rendering, static site generation, and client-side rendering with built-in routing and webpack configuration. It optimizes performance and SEO while providing a great developer experience.
 
-- **TypeScript:** A strongly typed superset of JavaScript that adds static types, allowing for enhanced code quality, better scalability, and improved developer productivity through features like type checking and code refactoring tools.
+- **TypeScript** is a strongly typed superset of JavaScript that adds static types, allowing for enhanced code quality, better scalability, and improved developer productivity through features like type checking and code refactoring tools.
 
-- **MongoDB:** A NoSQL document database known for its flexibility and scalability. It stores data in JSON-like documents and supports a flexible schema, making it suitable for handling large volumes of unstructured or semi-structured data.
+- **MongoDB** is a NoSQL document database known for its flexibility and scalability. It stores data in JSON-like documents and supports a flexible schema, making it suitable for handling large volumes of unstructured or semi-structured data.
 
-- **Clerk:** A developer-first authentication and user management service that simplifies implementing secure user authentication and authorization features in web applications. It provides pre-built UI components and backend services for managing user sessions, passwords, and permissions.
+- **Clerk** is a developer-first authentication and user management service that simplifies implementing secure user authentication and authorization features in web applications. It provides pre-built UI components and backend services for managing user sessions, passwords, and permissions.
 
-- **Cloudinary:** A cloud-based media management platform that offers image and video storage, transformation, optimization, and delivery services through a powerful API. It simplifies handling media assets in web applications by providing scalable solutions for media storage and delivery.
+- **Cloudinary** is a loud-based media management platform that offers image and video storage, transformation, optimization, and delivery services through a powerful API. It simplifies handling media assets in web applications by providing scalable solutions for media storage and delivery.
 
-- **Stripe:** A payment processing platform that allows businesses to accept payments online securely and with ease. It provides APIs and tools for managing payment workflows, handling subscriptions, integrating with e-commerce platforms, and ensuring PCI compliance.
+- **Stripe** is a payment processing platform that allows businesses to accept payments online securely and with ease. It provides APIs and tools for managing payment workflows, handling subscriptions, integrating with e-commerce platforms, and ensuring PCI compliance.
 
-- **Shadcn:** A highly customizable and extensible library, making it a great choice for building component libraries or design systems. You can easily modify the source code of Shadcn UI components to match your project's needs and design guidelines.
+- **Shadcn** is a highly customizable and extensible library, making it a great choice for building component libraries or design systems. You can easily modify the source code of Shadcn UI components to match your project's needs and design guidelines.
 
-- **TailwindCSS:** A utility-first CSS framework that provides a set of pre-designed utility classes for styling web interfaces. It allows developers to quickly build custom designs without writing traditional CSS by composing utility classes directly in HTML elements.
+- **TailwindCSS** is a utility-first CSS framework that provides a set of pre-designed utility classes for styling web interfaces. It allows developers to quickly build custom designs without writing traditional CSS by composing utility classes directly in HTML elements.
 
 ## <br/> <a name="features">📝 Features</a>
 
@@ -105,7 +105,7 @@ npm install
 yarn install
 ```
 
-**Set Up Environment Variables**
+<br/>**Set Up Environment Variables**
 
 Create a new file named `.env` in the root of your project and add the following content:
 
