@@ -76,10 +76,10 @@ and many more, including code architecture and reusability.
 Follow these steps to set up the project locally on your machine.
 
 **Dashboards**
-[MongoDB](https://cloud.mongodb.com)
-[Clerk](https://dashboard.clerk.com)
-[Coudinary](https://console.cloudinary.com)
-[Stripe](https://dashboard.stripe.com)
+- [MongoDB](https://cloud.mongodb.com)
+- [Clerk](https://dashboard.clerk.com)
+- [Coudinary](https://console.cloudinary.com)
+- [Stripe](https://dashboard.stripe.com)
 
 <br/>**Prerequisites**
 
