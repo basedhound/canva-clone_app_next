@@ -75,12 +75,6 @@ and many more, including code architecture and reusability.
 
 Follow these steps to set up the project locally on your machine.
 
-**Dashboards**
-- [MongoDB](https://cloud.mongodb.com)
-- [Clerk](https://dashboard.clerk.com)
-- [Coudinary](https://console.cloudinary.com)
-- [Stripe](https://dashboard.stripe.com)
-
 <br/>**Prerequisites**
 
 Make sure you have the following installed on your machine:
@@ -110,22 +104,42 @@ yarn install
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-# Convex
-CONVEX_DEPLOYMENT=
-NEXT_PUBLIC_CONVEX_URL=
-
-# Clerk
+#  Clerk
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
-CLERK_WEBHOOK_SECRET=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL='/sign-in'
-NEXT_PUBLIC_CLERK_SIGN_UP_URL='/sign-up'
 
-# OpenAI
-OPENAI_API_KEY=
+#  Clerk URLs
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# Clerk Webhook Secret
+WEBHOOK_SECRET=
+
+# MongoDB
+MONGODB_URL=
+
+# Cloudinary
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+
+# Stripe
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
+
+# More
+NEXT_PUBLIC_SERVER_URL=
 ```
 
 Replace the placeholder values with your actual credentials. 
+- [Clerk](https://dashboard.clerk.com)
+- [Cloudinary](https://console.cloudinary.com)
+- [MongoDB](https://cloud.mongodb.com)
+- [Stripe](https://dashboard.stripe.com)
+
 
 <br/>**Running the Project**
 
