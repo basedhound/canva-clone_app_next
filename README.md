@@ -107,12 +107,8 @@ Create a new file named `.env` in the root of your project and add the following
 #  Clerk
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
-
-#  Clerk URLs
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-
-# Clerk Webhook Secret
 WEBHOOK_SECRET=
 
 # MongoDB
