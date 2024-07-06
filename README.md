@@ -125,7 +125,7 @@ STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
 
 # More
-NEXT_PUBLIC_SERVER_URL=
+NEXT_PUBLIC_SERVER_URL=http://localhost:3000
 ```
 
 Replace the placeholder values with your actual credentials. 
