@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://imaginify-fv.vercel.app" target="_blank">
-      <img src="public/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Imaginify - Canva clone</h3>
 </div>
@@ -20,21 +20,23 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **Next.js** is a React framework that enables server-side rendering, static site generation, and client-side rendering with built-in routing and webpack configuration. It optimizes performance and SEO while providing a great developer experience.
+- [**Next.js**](https://nextjs.org/docs) is a React framework that enables server-side rendering, static site generation, and client-side rendering with built-in routing and webpack configuration. It optimizes performance and SEO while providing a great developer experience.
 
-- **TypeScript** is a strongly typed superset of JavaScript that adds static types, allowing for enhanced code quality, better scalability, and improved developer productivity through features like type checking and code refactoring tools.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a strongly typed superset of JavaScript that adds static types, allowing for enhanced code quality, better scalability, and improved developer productivity through features like type checking and code refactoring tools.
 
-- **MongoDB** is a NoSQL document database known for its flexibility and scalability. It stores data in JSON-like documents and supports a flexible schema, making it suitable for handling large volumes of unstructured or semi-structured data.
+- [**MongoDB**](https://www.mongodb.com/docs/atlas/getting-started/) is a NoSQL document database known for its flexibility and scalability. It stores data in JSON-like documents and supports a flexible schema, making it suitable for handling large volumes of unstructured or semi-structured data.
 
-- **Clerk** is a developer-first authentication and user management service that simplifies implementing secure user authentication and authorization features in web applications. It provides pre-built UI components and backend services for managing user sessions, passwords, and permissions.
+- [**Mongoose**](https://mongoosejs.com/docs/) is an Object Data Modeling (ODM) library for MongoDB and Node.js. It provides a schema-based solution to model application data, ensuring data consistency and providing powerful tools for querying and validation. Mongoose simplifies the process of interacting with MongoDB by providing a higher abstraction layer.
 
-- **Cloudinary** is a loud-based media management platform that offers image and video storage, transformation, optimization, and delivery services through a powerful API. It simplifies handling media assets in web applications by providing scalable solutions for media storage and delivery.
+- [**Clerk**](https://clerk.com/docs) is a developer-first authentication and user management service that simplifies implementing secure user authentication and authorization features in web applications. It provides pre-built UI components and backend services for managing user sessions, passwords, and permissions.
 
-- **Stripe** is a payment processing platform that allows businesses to accept payments online securely and with ease. It provides APIs and tools for managing payment workflows, handling subscriptions, integrating with e-commerce platforms, and ensuring PCI compliance.
+- [**Cloudinary**](https://cloudinary.com/documentation) is a loud-based media management platform that offers image and video storage, transformation, optimization, and delivery services through a powerful API. It simplifies handling media assets in web applications by providing scalable solutions for media storage and delivery.
 
-- **Shadcn** is a highly customizable and extensible library, making it a great choice for building component libraries or design systems. You can easily modify the source code of Shadcn UI components to match your project's needs and design guidelines.
+- [**Stripe**](https://docs.stripe.com/) is a payment processing platform that allows businesses to accept payments online securely and with ease. It provides APIs and tools for managing payment workflows, handling subscriptions, integrating with e-commerce platforms, and ensuring PCI compliance.
 
-- **TailwindCSS** is an utility-first CSS framework that provides a set of pre-designed utility classes for styling web interfaces. It allows developers to quickly build custom designs without writing traditional CSS by composing utility classes directly in HTML elements.
+- [**shadcn/ui**](https://ui.shadcn.com/docs) is a highly customizable and extensible library, making it a great choice for building component libraries or design systems. You can easily modify the source code of Shadcn UI components to match your project's needs and design guidelines.
+
+- [**Tailwind**](https://v2.tailwindcss.com/docs) is an utility-first CSS framework that provides a set of pre-designed utility classes for styling web interfaces. It allows developers to quickly build custom designs without writing traditional CSS by composing utility classes directly in HTML elements.
 
 ## <br/> <a name="features">📝 Features</a>
 
